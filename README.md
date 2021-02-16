@@ -4,7 +4,7 @@
 
 - It as Model-View-Presenter architecture. 
 - View more separated from Model and the Presenter is the mediator between Model and View.
-- Easier to create unit tests
+- Easier to create unit tests.
 
 __Model__
 
@@ -14,7 +14,8 @@ __Model__
 
 __View__
 
-- Consists of UI, activity, and fragment. It interacts with the presenter.
+- Consists of UI, activity, and fragment. 
+- It interacts with the presenter.
 
 __Presenter__
 
